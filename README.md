@@ -41,4 +41,5 @@ on openSUSE. On ubuntu-based distros, it may be `crond` or
 
 ## Acknowledgment
 
-Icons have been designed by [Melih Simsek](https://simsek.pl/).
+I am grateful to [Melih Simsek](https://simsek.pl/) for designing and 
+producing the icons.
