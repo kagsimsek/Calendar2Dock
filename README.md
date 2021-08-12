@@ -24,7 +24,7 @@ Then the indicator should appear at the end of Plank right away.
 
 For daily updates, run `crontab -e` and append to it the line 
 `0 0 * * * bash $HOME/bin/updateCalendar2Dock` (You may need to
-explicitly replace $HOME with your $HOME variable). Finally, 
+explicitly replace `$HOME` with your `$HOME` variable). Finally, 
 restart the cron service:
 
 ```
