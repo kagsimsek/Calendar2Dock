@@ -33,3 +33,12 @@ sudo service cron restart
 
 on openSUSE. On ubuntu-based distros, it may be `crond` or 
 `cron.services` or `crond.services`.
+
+## Screenshots
+
+![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/screenshots/plank_unmagnified.png?raw=true)
+![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/screenshots/plank_magnified.png?raw=true)
+
+## Acknowledgment
+
+Icons have been designed by [Melih Simsek](https://simsek.pl/).
