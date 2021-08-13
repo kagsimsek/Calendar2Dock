@@ -36,8 +36,8 @@ on openSUSE. On ubuntu-based distros, it may be `crond` or
 
 ## Screenshots
 
-![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/screenshots/plank_unmagnified.png?raw=true)
-![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/screenshots/plank_magnified.png?raw=true)
+![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/plank_unmagnified.png?raw=true)
+![alt text](https://github.com/kagsimsek/Calendar2Dock/blob/main/plank_magnified.png?raw=true)
 
 ## Acknowledgment
 
